@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Christian Calero Tovar
+// Section: MJC GitHub Assignment
 
 #include <iostream>
 using namespace std;
